@@ -1,9 +1,9 @@
-### Hi there! I'am Guilherme Dellatin 👋
+### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
-- 🔭 I’m currently working on Native Android Development
+- 🏢 I’m currently working on Native Android Development at Fiorilli software : https://fiorilli.com.br/
 - 🌱 I’m currently learning Kotlin
 - 😄 Pronouns: him/his
-- 🏢 Currently working as an android developer at Fiorilli software : https://fiorilli.com.br/
+
 
  <div>
   <a href="https://github.com/GuilhermeDellatin">
