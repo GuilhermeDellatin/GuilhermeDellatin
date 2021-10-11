@@ -1,7 +1,7 @@
 ### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
-- 🏢 I’m currently working on Native Android Development at Fiorilli software : https://fiorilli.com.br/
-- 🌱 I’m currently learning Kotlin
+- 🏢 I’m currently working on Native Android Development at Banco Inter : https://www.bancointer.com.br/
+- 🌱 I’m alwaays learning Kotlin
 - 😄 Pronouns: him/his
 
 
