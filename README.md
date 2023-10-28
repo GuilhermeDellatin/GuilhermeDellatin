@@ -1,7 +1,7 @@
 ### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
 - 🏢 I’m currently working on Native Android Development
-- 🌱 I’m always learning Kotlin and Android Development
+- 🌱 I’m always learning Kotlin, Android Development and Computer Science
 - 😄 Pronouns: him/his
 
 
