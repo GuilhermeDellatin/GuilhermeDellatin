@@ -1,6 +1,6 @@
 ### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
-- 🏢 I’m currently working on Native Android Development
+- 🏢 I’m currently working on Software Engineer
 - 🌱 I’m always learning about Computer Science
 - 💻 I'm currently focused on learning Python, IA, Machine learning and Data Science
 - 😄 Pronouns: him/his
