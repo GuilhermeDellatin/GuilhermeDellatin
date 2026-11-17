@@ -1,7 +1,5 @@
 ### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
-🧭 About me
-
 I'm a software engineer who enjoys turning ideas into working products. I've shipped mobile apps, built the APIs behind them, and I'm now bringing data and machine learning into the mix. I care about clean architecture, good developer experience and software that actually solves a problem.
 
 - 🏢 Software Engineer at PicPay, building mobile applications and microservices
