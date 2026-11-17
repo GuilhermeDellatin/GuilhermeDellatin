@@ -1,8 +1,12 @@
 ### Hi there! I'am Guilherme Fernandes Dellatin 👋
 
-- 🏢 I’m currently working on Software Engineer
+🧭 About me
+
+I'm a software engineer who enjoys turning ideas into working products. I've shipped mobile apps, built the APIs behind them, and I'm now bringing data and machine learning into the mix. I care about clean architecture, good developer experience and software that actually solves a problem.
+
+- 🏢 Software Engineer at PicPay, building mobile applications and microservices
+- 💻 Background in native Android(Kotlin/Java), native iOS(Swift) and Springboot(Kotlin/Java)
 - 🌱 I’m always learning about Computer Science
-- 💻 I'm currently focused on learning Python, IA, Machine learning and Data Science
 - 😄 Pronouns: him/his
 
 
@@ -13,12 +17,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Gui-Kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Gui-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gui-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Gui-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
 ##
